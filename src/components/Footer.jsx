@@ -2,10 +2,9 @@
 
 const Footer = () =>{
     return(
-        <>
-            <p>footer</p>
-            <p>Made by: Hunter</p>
-        </>
+        <div class="footer">
+            <p>Made by Hunter 🚀</p>
+        </div>
     );
 }
 

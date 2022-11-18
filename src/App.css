@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  
+  /* height: 100%; */
 }
 
 .App-logo {
@@ -36,3 +38,29 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+  background-color: #bfbcb2;
+}
+.pfp{
+  border-radius: 3px;
+  border: black 2px solid;
+  margin-right: 8rem;
+}
+
+.footer{
+  font-size: 23px;
+  padding-bottom: 0;
+  background-color: grey;
+  justify-content: center;
+  justify-self: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+/* .navs{
+  padding: 3em;
+} */
