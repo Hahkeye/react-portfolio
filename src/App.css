@@ -61,6 +61,6 @@
   right: 0px;
 }
 
-/* .navs{
-  padding: 3em;
-} */
+#form-control{
+  background-color: red;
+}
