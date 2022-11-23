@@ -45,6 +45,8 @@ function Contact() {
             </Form>
 
 
+            <a href="./img/resume.pdf" download> Download Resume</a>
+
 
         </>
         
